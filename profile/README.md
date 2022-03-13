@@ -1,12 +1,18 @@
 ## Hi there 👋
 
-<!--
+This is my private side project. 
+It's not affiliated with [KEA](https://kea.dk/), [Bonnier Publications](https://bonnierpublications.com/) or [Sikkerfest](https://sikkerfest.dk/).
 
-**Here are some ideas to get you started:**
+All rights goes to [Malthe Gram](https://github.com/MaltheGram). Project is exclusively developed as a hobby project, trying to replicate the original Sikkerfest,  with my personal touch on it.
+<hr>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<b> Tools used in this project. </b>
+<br>
+Will be updated as more tools are added.
+<ul>
+  <li> Webstorm </li>
+  <li> IntelliJ IDE </li>
+  <li> Springboot </li>
+</ul>
+<hr>
+
