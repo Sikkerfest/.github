@@ -8,7 +8,7 @@ All rights goes to [Malthe Gram](https://github.com/MaltheGram) for development,
 
 <b> Tools used in this project. </b>
 <br>
-Will be updated as more tools are added.
+Will be updated as more tools are used.
 <ul>
   <li> Webstorm </li>
   <li> IntelliJ IDE </li>
